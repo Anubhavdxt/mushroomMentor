@@ -39,7 +39,7 @@ export default KnowMushrooms;
 export const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: COLORS.dark,
+    backgroundColor: COLORS.gray2,
     alignItems: 'center',
     paddingHorizontal: 10,
   },
