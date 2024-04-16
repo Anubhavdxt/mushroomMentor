@@ -18,9 +18,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     backgroundColor: COLORS.light,
     borderRadius: 10,
-    gap: 12,
+    gap: 10,
     margin: 10,
-    paddingBottom: 12,
+    paddingBottom: 10,
   },
   cardImage: {
     width: 150,
@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     borderTopRightRadius: 10,
   },
   cardText: {
-    fontSize: 16,
+    fontSize: 15,
     color: COLORS.primaryDark,
     fontWeight: 'bold',
   },
